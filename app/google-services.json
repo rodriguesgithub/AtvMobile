@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429705066464",
+    "firebase_url": "https://prmo-mob.firebaseio.com",
+    "project_id": "prmo-mob",
+    "storage_bucket": "prmo-mob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429705066464:android:79938f9537135119",
+        "android_client_info": {
+          "package_name": "com.example.mainactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429705066464-4iltmere6tnifgfvratuogbhe3li7kof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mainactivity",
+            "certificate_hash": "b2b5d751e16f92bc93a1365c55264db5a006a204"
+          }
+        },
+        {
+          "client_id": "429705066464-96thkvmoui06flsrir2so3a69kr59rqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHsI0d888PFU-z60oV33wjrrBp8ewGY2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429705066464-96thkvmoui06flsrir2so3a69kr59rqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
