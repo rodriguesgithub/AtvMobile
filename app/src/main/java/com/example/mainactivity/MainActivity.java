@@ -34,6 +34,10 @@ public class MainActivity extends AppCompatActivity {
         Intent it = new Intent(MainActivity.this, ActCadastrar.class);
         startActivity(it);
     }
+    public void IrTelaLista(View view) {
+        Intent it = new Intent(MainActivity.this, Main2Activity.class);
+        startActivity(it);
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
